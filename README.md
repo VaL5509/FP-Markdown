@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="fp-markdown">FP-Markdown</h1>
 <h4 id="joão-valério">João Valério</h4>
 <p><code>2201108</code></p>
